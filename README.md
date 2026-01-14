@@ -14,3 +14,8 @@ Maya 2025
 # Maya 画面
 ## 上下左右
 <img width="1478" height="1011" alt="image" src="https://github.com/user-attachments/assets/dc868489-9554-4563-bfac-937d83c1e4af" />
+
+
+## アニメーション
+※ 画像クリックで再生します。
+![charaanime](https://github.com/user-attachments/assets/49c77018-fc8b-4be1-940a-72c86a1c304e)
