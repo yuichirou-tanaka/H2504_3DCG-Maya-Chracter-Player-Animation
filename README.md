@@ -11,6 +11,11 @@ Maya 2025
 - 作品で使った場合は、こちらのライセンス表記をクレジットなりに入れてください。
   - キャラクターモデルファイル Copyright (c) 2026 Yuichiro Tanaka
 
+# 禁止事項
+- 無断転載
+- 商用利用
+- AI機械学習の利用
+
 # Maya 画面
 ## 上下左右
 <img width="1478" height="1011" alt="image" src="https://github.com/user-attachments/assets/dc868489-9554-4563-bfac-937d83c1e4af" />
